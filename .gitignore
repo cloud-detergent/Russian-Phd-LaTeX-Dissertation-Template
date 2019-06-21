@@ -272,4 +272,5 @@ TSWLatexianTemp*
 ehthumbs.db
 Thumbs.db
 
-*.docx
+# *.docx
+.~lock.*
