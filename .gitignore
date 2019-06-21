@@ -274,3 +274,4 @@ Thumbs.db
 
 # *.docx
 .~lock.*
+*.tmp
